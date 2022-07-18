@@ -8,3 +8,6 @@ Na tela de login esta sendo utilizando a função de beforeEach. Each
 Na tela de pré-cadastro é importado a função <i> faker <i>
 
 A função <i> faker <i> serve para ajuda criar dados falsos em campos obrigatórios, sem o uso da API e do banco de dados.
+
+## Tela de produto
+Criação da tela de produto
