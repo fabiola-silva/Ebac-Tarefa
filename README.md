@@ -2,7 +2,7 @@
 Meu primeiro teste de Automação
 
 # Tela de login
-Na tela de login esta sendo utilizando a função de beforeEach. Each
+Na tela de login esta sendo utilizando a função de beforeEach.
 
 ## Tela de pré-cadastro
 Na tela de pré-cadastro é importado a função <i> faker <i>
